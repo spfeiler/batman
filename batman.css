@@ -1,0 +1,15 @@
+.movieItem {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#moviePoster {
+  display: flex;
+  height: 100px;
+  width: auto;
+}
+
+#movieDetails {
+  text-decoration: none;
+  list-style-type: none;
+}
